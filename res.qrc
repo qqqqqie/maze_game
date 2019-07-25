@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>black.png</file>
+        <file>end.png</file>
+        <file>migongyouxi.jpg</file>
+        <file>start.png</file>
+        <file>startbtn.png</file>
+        <file>timg.jpg</file>
+        <file>white.png</file>
+        <file>migongyouxi2.jpg</file>
+        <file>startbtn2.png</file>
+        <file>path.jpg</file>
+        <file>people.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>bgm.mp3</file>
+        <file>button.wav</file>
+        <file>run.mp3</file>
+        <file>victory.mp3</file>
+        <file>run2.wav</file>
+    </qresource>
+</RCC>
